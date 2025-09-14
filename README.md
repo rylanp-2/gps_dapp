@@ -1,16 +1,16 @@
-# gps_dapp
+# Decentralized Location-Sharing App
 
-A new Flutter project.
+A proof-of-concept mobile application for private, secure location sharing using the **Ethereum blockchain**.  
+Developed with **Flutter**, featuring end-to-end encryption for user privacy.
 
-## Getting Started
+## Features
+- Decentralized location sharing using Ethereum blockchain (on Sepolia Testnet)
+- AES encryption
+- Secure key management
+- Real-time map interface
+- Cross-platform support (Android & iOS)
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- **Flutter/Dart**
+- **Ethereum/Solidity**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
