@@ -60,3 +60,10 @@ ios/Flutter/Flutter.podspec
 # Environment files
 .env
 
+# Flutter platform-specific files
+android/
+ios/
+linux/
+macos/
+windows/
+web/
