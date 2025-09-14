@@ -10,7 +10,11 @@ Developed with **Flutter**, featuring end-to-end encryption for user privacy.
 - Real-time map interface
 - Cross-platform support (Android & iOS)
 
-## Tech Stack
+## Tools
 - **Flutter/Dart**
 - **Ethereum/Solidity**
 
+## Screenshots
+![Home Screen](screenshots/homescreen.png)
+![Send Location Screen](screenshots/sendscreen.png)
+![Read Location Screen](screenshots/readscreen.png)
