@@ -67,3 +67,9 @@ linux/
 macos/
 windows/
 web/
+assets/abi/
+.metadata
+analysis_options.yaml
+flutter_01.png
+pubspec.lock
+pubspec.yaml
